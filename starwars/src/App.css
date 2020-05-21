@@ -6,3 +6,11 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+.App img{
+  max-width: 300px;
+  align-self: center;
+}
+.card{
+  margin: 10px;
+  max-width: 300px;
+}
